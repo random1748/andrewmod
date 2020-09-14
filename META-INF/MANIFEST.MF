@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: andrewmod
+Implementation-Version: 1.0
+Specification-Vendor: examplemodsareus
+Specification-Title: examplemod
+Implementation-Timestamp: 2020-09-10T10:32:15-0500
+Specification-Version: 1
+Implementation-Vendor: examplemodsareus
+
